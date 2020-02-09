@@ -1,4 +1,9 @@
-#Cadastro de Usuário
+#Cadastro de Usuário - Front-end
 
-Projeto de um CRUD - utilizando json-server para criar api para persistir os dados
+Tópicos abodados
+  * props x states
+  * rotas
+  * componente funcional
+  * estados de componente
+  * ...
 
